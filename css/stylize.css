@@ -1,0 +1,14 @@
+h2{color: brown ;}
+h2{color: red;}
+p{color: green ;}
+body{color: blue ;}
+.hated {color: cadetblue}
+.jagonz{color: crimson}
+#exception{color: chocolate}
+*{color: goldenrod}
+
+div {background-color: aqua}
+div {background-image: url(../images/f.jpg)}
+div {background-size: contain}
+div {background-size:cover}
+div {background: coral url(../images/jonatan-pie-234237-unsplash.jpg)no repeat top left }
